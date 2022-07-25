@@ -79,7 +79,7 @@ namespace Microsoft.ReportingServices.Rendering.ExcelRenderer.SPBIF.ExcelCallbac
 				{
 					return "#,##0%";
 				}
-				return "#,##0." + text + "#%";
+				return "#,##0." + text + "%";
 			case 'R':
 			case 'r':
 				return "General";

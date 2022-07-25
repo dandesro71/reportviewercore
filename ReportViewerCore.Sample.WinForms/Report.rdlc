@@ -258,6 +258,7 @@
                                   <Value>=Fields!Price.Value</Value>
                                   <Style>
                                     <FontFamily>Cambria</FontFamily>
+                                    <Format>P2</Format>
                                   </Style>
                                 </TextRun>
                               </TextRuns>
